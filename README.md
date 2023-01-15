@@ -1,4 +1,4 @@
 # Orange-detection-and-tracking
 
 
-[![Watch the video]](tracking.mp4)
+[Watch the video](tracking.mp4)
